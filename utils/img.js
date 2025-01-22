@@ -1,0 +1,2 @@
+export const LOGO_IMG_HEADER="https://rukminim2.flixcart.com/image/416/416/jmdrr0w0/showpiece-figurine/y/f/b/ratna0618-ratnatraya-original-imaf9atphv7tpyzy.jpeg?q=70&crop=false"
+export const GITHUB_API="https://api.github.com/users/Sanjal28"
